@@ -56,7 +56,7 @@ MAIN PROC
     SUB AL, '0' 
     MOV OP, AL
 
-    ; Input KG
+    
     MOV AH, 9
     LEA DX, MSG10
     INT 21H
@@ -65,7 +65,7 @@ MAIN PROC
     SUB AL, '0'    
     MOV NUM1, AL
 
-    ; Proses konversi
+    
     CMP OP, 1
     JE  KG_HG
     CMP OP, 2
