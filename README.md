@@ -3,4 +3,4 @@ Program aplikasi "Konversi Satuan Berat" adalah sebuah program yang dibuat mengg
 * Nama: Shellgy Prudentio
 * NIM: 2300018048
 * Kelas: A
-* Link Youtube:
+* Link Youtube: https://www.youtube.com/watch?v=Zu6iCaCAZR4
